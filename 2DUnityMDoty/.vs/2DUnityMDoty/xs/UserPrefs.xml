@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{BBD8428E-E7B0-42C8-87BF-2A7629693156}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/PlayerLaserController.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/PlayerController.cs" Line="65" Column="10" />
+      <File FileName="Assets/_Scripts/MoverMook.cs" />
+      <File FileName="Assets/_Scripts/MoverSeeker.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/MoverUFO.cs" Line="103" Column="37" />
+      <File FileName="Assets/_Scripts/Mover1.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Mover2.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/GameController.cs" Line="16" Column="28" />
+      <File FileName="Assets/_Scripts/EnemyBoundry.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlayerLaserController.cs" Line="29" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2DUnityMDoty" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scripts" expanded="True">
+                <Node name="PlayerLaserController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e94ec9cd-3a8c-4759-96c6-e7bf23eba952" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
